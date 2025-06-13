@@ -1,1 +1,2 @@
-git disscusion
+git disscusion 
+sking staging area 
